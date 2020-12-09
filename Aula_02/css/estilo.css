@@ -1,0 +1,19 @@
+#principal{
+    width: 400px;
+    height: 300px;
+    border: 1px solid #000;
+    position: relative;
+    margin: auto;
+}
+
+#principal h1{
+    text-align: center;
+}
+
+.nome{
+    font-size: 18px;
+}
+
+.media{
+    font-size: 18px;
+}

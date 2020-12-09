@@ -1,0 +1,23 @@
+#banner{
+    width: 800px;
+    height: 3px;
+    background-color: #F00;
+    position: relative;
+    margin: auto;
+}
+
+#corpo{
+    width: 800px;
+    height: 3px;
+    background-color: #FFF;
+    position: relative;
+    margin: auto;
+}
+
+#rodape{
+    width: 800px;
+    height: 3px;
+    background-color: #000;
+    position: relative;
+    margin: auto;
+}

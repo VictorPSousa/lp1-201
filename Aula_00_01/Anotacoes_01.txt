@@ -1,0 +1,16 @@
+Machine Learning -> Ensinar a máquina sem algoritmo pré-estruturado mas sim com análise de dados.
+
+Servidor Web -> Apache interpreta o PHP. Programa de computador denominado servidor web, é instalado em nossos servidores para que as páginas da internet, através do browser, sejam
+visualizadas por você em sua estação de trabalho.
+
+Modelo de codificar as linguagens de programação:
+- Baixo Nível
+- Linear (De cima para baixo)
+- Estruturada (Como a linear, com o acréscimo das funções).
+- POO -> Alto nível (Métodos, Classes, Organização de Software, Segurança, Trabalho em Equipe).
+
+PHP - Open source, dev web e pode ser embutida no HTML.
+
+XAMMP - Simular um serviço externo.
+
+Instalar extensões - HTML SNIPPET, CSS e PHP SNIPPET PACK 
