@@ -1,0 +1,10 @@
+Nome de usuário para Login: anselmo
+Senha: 123456
+
+------------------------------------
+
+Para enviar a imagem é necessário estar logado como usuário comum.
+
+------------------------------------
+
+ID das fotos no banco: 19 e 23
